@@ -22,9 +22,9 @@
 |---|---|---|
 | **UrbanFlow AI** | Traffic intelligence using YOLO vehicle detection, ByteTrack tracking, trajectory analysis, SUMO simulation, and world-model components. | Repository confidential |
 | **CloneVox** | Voice-cloning and speech-generation system exploring expressive TTS, audio processing, and GPU-backed generation pipelines. | Repository confidential |
-| **Life — Second Brain OS** | Personal knowledge workspace for organizing resources, information, and workflows. | [Live app](https://life-phi-dusky.vercel.app/app) · [Repository](https://github.com/siddhesh190805/Life) |
+| **Life — Second Brain OS** | Personal knowledge workspace for organizing resources, information, and workflows. | [Live app](https://life-phi-dusky.vercel.app/app) · Source repository private |
 | **ElectroEkart** | E-commerce semester project using React with a PHP/MySQL backend. | Link not published |
-| **NPTEL-prep** | Study portal for structured course material, revision, practice, and exam preparation. | [Repository](https://github.com/siddhesh190805/NPTEL-prep) |
+| **NPTEL-prep** | Study portal for structured course material, revision, practice, and exam preparation. | Source repository private |
 
 ## About
 
